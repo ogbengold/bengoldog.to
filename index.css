@@ -1,0 +1,20 @@
+button {
+           border: none;
+           background: red;
+           border-radius: 5px;
+           padding: 5px;
+           color: #fff;
+           font-weight: bold;
+           font-size: 40px;
+           height: 5
+           60px;
+           width:300px ;
+           
+       }
+body { 
+background-color: gold;
+}       
+img { 
+border-radius: 600px;
+
+}      
